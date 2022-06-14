@@ -12,4 +12,8 @@ The dasboard created based on fictional department and the following indicators 
 
 ## Home Page
 
-![Home](https://user-images.githubusercontent.com/29350894/173464575-100c1da4-6049-4775-85b0-fe4eacd49ffe.png)
+![Home](https://user-images.githubusercontent.com/29350894/173703202-7e500cf1-3c97-41ee-bdf2-0a13be23b310.png)
+
+## Details Page
+
+![details](https://user-images.githubusercontent.com/29350894/173703220-d8b0dc81-04b7-4ee5-8753-d069b0def4c8.png)
