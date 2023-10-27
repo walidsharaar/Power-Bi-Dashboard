@@ -3,7 +3,7 @@
 Different Dashboards created based on some fictional dataset on Power BI
 
 ## Sales & product Overview
-![Overview] (https://user-images.githubusercontent.com/29350894/167313655-444f3063-1513-44c1-8ae0-2a19264e9d3a.png)
+https://user-images.githubusercontent.com/29350894/167313655-444f3063-1513-44c1-8ae0-2a19264e9d3a.png
 ## Customer Overview
 
 ![Customer Overview](https://user-images.githubusercontent.com/29350894/173706228-f769649d-611e-46cd-9e9f-868666c667d5.png)
