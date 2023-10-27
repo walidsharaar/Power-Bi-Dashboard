@@ -15,5 +15,8 @@ Different Dashboards created based on some fictional dataset on Power BI
 
 ![details](https://user-images.githubusercontent.com/29350894/173706292-16cf437b-434f-403b-93c7-fe0cbd5a5491.png)
 
+## Financial Reporting
+https://github.com/walidsharaar/Power-Bi-Dashboards/tree/master/008_Financial_Reporting
+
 ## Sales & product Overview
 https://user-images.githubusercontent.com/29350894/167313655-444f3063-1513-44c1-8ae0-2a19264e9d3a.png
