@@ -1,6 +1,7 @@
 ## Summary Job market analysis with Power BI 
 
 ### Introduction to the Case Study
+- Case study was inspired by DataCamp site.
 - introduces the Power BI job market analysis case study and a case study applies learned skills to real-world problems, focusing on common issues in data science without introducing new concepts.
 - The case study involves checking data integrity, exploring data, analyzing and visualizing data, and building a final dashboard to communicate insights.
 - Initial steps include performing data integrity checks and exploratory data analysis, leading to business questions relevant to the problem.
