@@ -19,3 +19,5 @@
 ![image](https://github.com/walidsharaar/Power-Bi-Dashboards/assets/29350894/fc6e85f1-2a65-4517-b814-ae991cfb71a2)
 
 ![image](https://github.com/walidsharaar/Power-Bi-Dashboards/assets/29350894/4a386608-459a-4c2d-9251-39d8385ec5ae)
+
+![image](https://github.com/walidsharaar/Power-Bi-Dashboards/assets/29350894/3101a54a-6e23-49d5-98bf-bf171a4ff42c)
