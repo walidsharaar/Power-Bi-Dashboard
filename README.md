@@ -20,4 +20,5 @@ Different Dashboards created based on some fictional dataset on Power BI
 
 
 ## Sales & product Overview
-https://user-images.githubusercontent.com/29350894/167313655-444f3063-1513-44c1-8ae0-2a19264e9d3a.png
+![image](https://github.com/walidsharaar/Power-Bi-Dashboards/assets/29350894/a4715e3a-0bc5-4628-944a-dc4dd14623ff)
+
