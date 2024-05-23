@@ -22,3 +22,5 @@ Different Dashboards created based on some fictional dataset on Power BI
 ## Sales & product Overview
 ![image](https://github.com/walidsharaar/Power-Bi-Dashboards/assets/29350894/a4715e3a-0bc5-4628-944a-dc4dd14623ff)
 
+## Job Market Analyze
+![image](https://github.com/walidsharaar/Power-Bi-Dashboards/assets/29350894/b9672b86-0b30-42fb-942b-606a7c8fdb95)
