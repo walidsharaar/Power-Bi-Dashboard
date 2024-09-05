@@ -24,3 +24,8 @@ Different Dashboards created based on some fictional dataset on Power BI
 
 ## Job Market Analyze
 ![image](https://github.com/walidsharaar/Power-Bi-Dashboards/assets/29350894/b9672b86-0b30-42fb-942b-606a7c8fdb95)
+
+## Health Care Analyze
+
+![image](https://github.com/user-attachments/assets/73318e4e-dc95-4e52-a224-54544dd74b49)
+
