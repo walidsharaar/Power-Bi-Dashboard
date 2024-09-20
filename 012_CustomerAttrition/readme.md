@@ -26,3 +26,7 @@ Besides creating insightful dashboards, I also help clients understand the data 
 - **Departmental Trends**: Certain departments, such as Sales and Customer Service, have higher attrition rates.
 - **Compensation and Benefits**: Customers who feel undercompensated or lack benefits are more likely to seek other opportunities.
 - **Work-Life Balance**: Customers reporting poor work-life balance are more likely to leave.
+### Images
+![Uploading 1.png…]()
+
+![Uploading 2.png…]()
