@@ -27,6 +27,8 @@ Besides creating insightful dashboards, I also help clients understand the data 
 - **Compensation and Benefits**: Customers who feel undercompensated or lack benefits are more likely to seek other opportunities.
 - **Work-Life Balance**: Customers reporting poor work-life balance are more likely to leave.
 ### Images
-![Uploading 1.png…]()
 
-![Uploading 2.png…]()
+![1](https://github.com/user-attachments/assets/9dd03278-db84-4ae9-b336-fedc212c5839)
+
+![2](https://github.com/user-attachments/assets/78352b27-0549-4c9c-9d01-569843ce7d23)
+
